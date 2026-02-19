@@ -1,0 +1,153 @@
+{
+    "mods": {
+        "ultimate-caves-mod": {
+            "name": "Ultimate Caves Mod",
+            "type": "github",
+            "link": "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.6/ultimatecavesmod-1.0.6.jar"
+        },
+        "village-names": {
+            "name": "Village Names",
+            "type": "curseforge",
+            "project-id": 259230,
+            "file-id": 5886875
+        },
+        "et-futurum-requiem": {
+            "name": "Et Futurum Requiem",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Et-Futurum-Requiem/releases/download/2.6.12-JB/etfuturum-2.6.12-JB.jar"
+        },
+        "biomes-o-plenty": {
+            "name": "Biomes O' Plenty",
+            "type": "curseforge",
+            "project-id": 220318,
+            "file-id": 2499612
+        },
+        "tileentity-reset-fix": {
+            "name": "TileEntity Reset Fix",
+            "type": "modrinth",
+            "project-id": "cKitwCSu",
+            "file-id": "uxSWLWki"
+        },
+        "applecore": {
+            "name": "AppleCore",
+            "type": "modrinth",
+            "project-id": "c3I7Akgu",
+            "file-id": "5u2XT9ic"
+        },
+        "sound-filters": {
+            "client": true,
+            "name": "Sound Filters",
+            "type": "curseforge",
+            "project-id": 222789,
+            "file-id": 2224003
+        },
+        "simple-skin-backport": {
+            "name": "Simple Skin Backport",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/SimpleSkinBackport/releases/download/0.1.0/simpleskinbackport-0.1.0.jar"
+        },
+        "salutation": {
+            "name": "Salutation",
+            "type": "curseforge",
+            "project-id": 1336558,
+            "file-id": 7526419
+        },
+        "better-achievements": {
+            "client": true,
+            "name": "Better Achievements",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/BetterAchievements/releases/download/0.3.1-JB/BetterAchievements-0.3.1-JB.jar"
+        },
+        "morpheus": {
+            "name": "Morpheus",
+            "type": "curseforge",
+            "project-id": 69118,
+            "file-id": 2280761
+        },
+        "mouse-tweaks": {
+            "client": true,
+            "name": "Mouse Tweaks",
+            "type": "curseforge",
+            "project-id": 60089,
+            "file-id": 2209265
+        },
+        "modern-splash": {
+            "name": "Modern Splash",
+            "type": "curseforge",
+            "project-id": 629058,
+            "file-id": 4347198
+        },
+        "netherlicious": {
+            "name": "Netherlicious",
+            "type": "curseforge",
+            "project-id": 385860,
+            "file-id": 4363437
+        },
+        "archaic-fix": {
+            "name": "Archaic Fix",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/ArchaicFix/releases/download/0.7.8/archaicfix-0.7.8.jar"
+        },
+        "angelica": {
+            "name": "Angelica",
+            "type": "curseforge",
+            "project-id": 988067,
+            "file-id": 7576330
+        },
+        "gtnhlib": {
+            "name": "GTNHLib",
+            "type": "curseforge",
+            "project-id": 688894,
+            "file-id": 7642373
+        },
+        "hodgepodge": {
+            "name": "Hodgepodge",
+            "type": "curseforge",
+            "project-id": 688899,
+            "file-id": 7647396
+        },
+        "healer": {
+            "name": "Healer",
+            "type": "curseforge",
+            "project-id": 554840,
+            "file-id": 4367893
+        },
+        "fluidlogged": {
+            "name": "FluidLogged",
+            "type": "github",
+            "link": "https://github.com/GTMEGA/FluidLogged/releases/download/0.2.0/fluidlogged-mc1.7.10-0.2.0.jar"
+        },
+        "falsepatternlib": {
+            "name": "FalsePatternLib",
+            "type": "curseforge",
+            "project-id": 665627,
+            "file-id": 7516867
+        },
+        "chunk-api": {
+            "name": "ChunkAPI",
+            "type": "curseforge",
+            "project-id": 844484,
+            "file-id": 7585869
+        },
+        "adjachests": {
+            "name": "AdjaChests",
+            "type": "github",
+            "link": "https://github.com/Myask-sl/adjachest-1.7.10/releases/download/v0.9.9.9beta10/adjachest-0.9.9.9beta10.jar"
+        },
+        "unimixins": {
+            "name": "UniMixins",
+            "type": "github",
+            "link": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.2.1/+unimixins-all-1.7.10-0.2.1.jar"
+        },
+        "lwjgl3ify": {
+            "name": "lwjgl3ify",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.11/lwjgl3ify-3.0.11.jar"
+        },
+        "wdmla": {
+            "name": "WDMla",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/WDMla-Fork/releases/download/2.8.1-brandyn/wdmla-2.8.1-brandyn.jar"
+        }
+    }
+}

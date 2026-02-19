@@ -1,0 +1,13 @@
+name = "Salutation"
+filename = "Salutation-1.7.10-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "4df139c4e3fbe7412c257e6ccd0ea4a1db5a6b99fdff26e3c07c8475fa755552"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7526419
+project-id = 1336558

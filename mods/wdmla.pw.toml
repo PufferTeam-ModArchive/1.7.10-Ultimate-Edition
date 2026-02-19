@@ -1,0 +1,8 @@
+name = "WDMla"
+filename = "wdmla-2.8.1-brandyn.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "350caa7a1b484f6f4ea26a9738a0197418131898efd2983d9e5bddb0da1efbd1"
+url = "https://github.com/PufferTeam-ModArchive/WDMla-Fork/releases/download/2.8.1-brandyn/wdmla-2.8.1-brandyn.jar"
