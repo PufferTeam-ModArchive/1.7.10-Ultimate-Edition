@@ -1,12 +1,160 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/mod-director/mods.bundle.json"
+file = "config/angelica-compat.cfg"
+hash = "f2f00e6e16febb4b2f134da09d064f4fa7f774fa1d57a9dd603ea9f357d70708"
+
+[[files]]
+file = "config/angelica-modules.cfg"
+hash = "644ff3d82924b62615d2a546aab4c822ee5de81c16580ecb5f49192aacbb0acb"
+
+[[files]]
+file = "config/angelica-options.json"
+hash = "1f6c7163ade433d15a7dad0a61f57930e39d208ebf4fb7d38001f043c472836d"
+
+[[files]]
+file = "config/angelica.cfg"
+hash = "46f587fdc99ee49b18e6c3119909b8557c18ba24fe5ebf0bf6d6a408834e140e"
+
+[[files]]
+file = "config/archaicfix.cfg"
+hash = "716bd49daf50ddd799bdfbaa2b396df0bfd4522a7edf27ac609d616a10ce2a57"
+
+[[files]]
+file = "config/config/mod-director/mods.bundle.json"
 hash = "4dc3dc87ff04757e21a556c797f262a9831fac1d2acb23d0a5fe67496e0947b9"
 
 [[files]]
+file = "config/defaultworldgenerator.cfg"
+hash = "f3e15316d6fb3fd03669741c74e428b8130b86c1cbe6749fba7989e78c4c1f52"
+
+[[files]]
+file = "config/etfuturum/blocksitems.cfg"
+hash = "f55db3108e4b5d6f2e37e3f83ce019874f5fd39e98fd8a638946f9a5e316331a"
+
+[[files]]
+file = "config/etfuturum/enchantspotions.cfg"
+hash = "291e03b3c2a13a40af98c53c19ccfa9a84b585cd853faaa99402077a0ccae066"
+
+[[files]]
+file = "config/etfuturum/entities.cfg"
+hash = "608a6f920ef4944aca8218bc819bff6fd853979ee664f2f7009a818f30141a54"
+
+[[files]]
+file = "config/etfuturum/experiments.cfg"
+hash = "dc35ab9d35af27e0974fe17c586910f7e18a9f794fcf769a89e74d845177dd75"
+
+[[files]]
+file = "config/etfuturum/functions.cfg"
+hash = "78007b0ffc8c503fbba25ec0dd38bbd7ed060df8d848aa754d0c60e3a4c6f1a6"
+
+[[files]]
+file = "config/etfuturum/mixins.cfg"
+hash = "1f4bb91d24f7d1f2a660b708d3cdd995ad5f2ecc3ed456a50001d3f0575b6d64"
+
+[[files]]
+file = "config/etfuturum/modcompat.cfg"
+hash = "00b75da44e8fabdb54d00c6eff0a284647a596c8e70b4db57c2651ec39c25576"
+
+[[files]]
+file = "config/etfuturum/sounds.cfg"
+hash = "442ba1a6efd64419eb42a204c5b29768b3e07a8809cb5ec4ed42c9d7edeee9eb"
+
+[[files]]
+file = "config/etfuturum/tweaks.cfg"
+hash = "c1b054a33fbcaea94f75834be91db5a474435b32785fe0c4fbf559729fc51243"
+
+[[files]]
+file = "config/etfuturum/world.cfg"
+hash = "fe2ada7d3dfe01f7a5997226f5ab0405bbf822877e9f1fcff4c3e37681bd06fa"
+
+[[files]]
+file = "config/falsepatternlib-early.json"
+hash = "319e81be94da37114b477797a88f0b9998ccaca3ca22b80eb31d39c0a5d25a22"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+
+[[files]]
+file = "config/gtnhlib.cfg"
+hash = "ff04840c5f3b1c74b11cab3cdf259e64d27505831837736d14df5a7a30f80921"
+
+[[files]]
+file = "config/hodgepodge.cfg"
+hash = "1043208a1ec3a58e1a7389dd1599bbfc4fb2ce269e046f9b371fb8dcb9048433"
+
+[[files]]
+file = "config/hodgepodgeEarly.properties"
+hash = "43d80659e5d6008fcc944a1a4eadfdb591f19b439c4c54b634085af6f5468d3b"
+
+[[files]]
+file = "config/lwjgl3ify-early.json"
+hash = "3d04245c0dbb472b63de82fca5f18434bd8af2702bfe9a47b38935531acf70eb"
+
+[[files]]
+file = "config/lwjgl3ify.cfg"
+hash = "0f0974a68aaf0b94e04158033f4c62cb1620ccaaa051648dedbbd3c53f89e8f3"
+
+[[files]]
+file = "config/mcpatcherforge.cfg"
+hash = "e961e8e09faf94cf330106f7fbe02a73d0151554ad17bb63c0c6f2d70f5c502a"
+
+[[files]]
+file = "config/mixingasm/transformer_exclusion_list.txt"
+hash = "261c3c0fd863923371aad3676766d81c0bfc2a527b88e479166dfd59efaed3af"
+
+[[files]]
+file = "config/mixingasm/transformer_inclusion_list.txt"
+hash = "9b747b0e71125a99a70237f549d3c275e2fb3dc5c1e74b426992fd4cc5fc6b75"
+
+[[files]]
+file = "config/mixingasm/transformer_inclusion_list_default.txt"
+hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
+
+[[files]]
+file = "config/mod-director/mods.bundle.json"
+hash = "3e0bc8f3eb7909df26cadd0754472941d9af33cf361c350b5cca5aff61a40a29"
+
+[[files]]
+file = "config/notfine/notfine.cfg"
+hash = "e7d32744a499aaf2ce3e476225dd38996101f593f17eadffaa52a369a2dbdf7b"
+
+[[files]]
+file = "config/shaders.properties"
+hash = "edf05da3c0b0f5b0a62ba554fa02d50202a7125bc013c0963af5b21cf507c5ea"
+
+[[files]]
+file = "config/simpleskinbackport/main.cfg"
+hash = "01bd1c596426a857bac458e8e7b84793b8ee2e348e04e37f9838331c2fbae0b2"
+
+[[files]]
+file = "config/simpleskinbackport/modcompat.cfg"
+hash = "c9535ddb7dadd6475e8e908e0da1845914f2b6f14704379e109219e4fc454bfd"
+
+[[files]]
+file = "config/splash.properties"
+hash = "b81578455c5d1887c770ce618f426de9b5352d1ad112eeecc2d41b80fb98b730"
+
+[[files]]
+file = "config/ultimatecavesmod/UCM_GREG.cfg"
+hash = "20a962e506c7633489d7838f6c3cd1f496385e5903a9073d1eb49e3310e803fa"
+
+[[files]]
+file = "config/ultimatecavesmod/UCM_MAIN.cfg"
+hash = "f11672ad0dac91d2ab3c55fda7f4118c2fbf08898a8bf300078f716fe62b902d"
+
+[[files]]
+file = "config/ultimatecavesmod/UCM_WORLEY.cfg"
+hash = "c3ac8161179e10a2cd97c2d65ba16e067892ea771477b9e4403b6b12a18b6169"
+
+[[files]]
+file = "config/unimixins.properties"
+hash = "d0b91df4f9fc689f63a93c0b10abdf05964303d10020b1db9dd8d8eaa886003b"
+
+[[files]]
 file = "mods.json"
-hash = "dd00b06aedfa7a4906914d94698429bc5d8113afe358d4b1d0d8f0e699f40e10"
+hash = "998ea7f6e5eeebb4cbf8388aa430d0266a578ca3e272ea550a0a6ac235d8a18a"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -51,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-api.pw.toml"
 hash = "07e928bf7f0e1f2c7c6a4f8429dc55e9c01c471527fa281cc6193bbdde5401b8"
+metafile = true
+
+[[files]]
+file = "mods/default-world-generator.pw.toml"
+hash = "b2a116343c4fdaca33e8314a8be7ade8dc1e8b07fc31ff166879ea25d0aec864"
 metafile = true
 
 [[files]]

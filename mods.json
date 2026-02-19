@@ -124,6 +124,13 @@
             "project-id": 554840,
             "file-id": 4367893
         },
+        "default-world-generator": {
+            "client": true,
+            "name": "Default World Generator",
+            "type": "curseforge",
+            "project-id": 226188,
+            "file-id": 2225179
+        },
         "lumi": {
             "name": "Lumi Lighting Engine Optimizer",
             "type": "curseforge",

@@ -452,26 +452,6 @@
       }
     },
     {
-      "fileName": "DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar",
-      "addonId": 226188,
-      "fileId": 2225179,
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Default World Generator"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "be6e0e0e8797ee5bfa3ecff6358a0c99",
-          "SHA-256": "70203c1f5d8bb5a10250b54d0b6e0fae0690e3228aab5cc734e832a9392fc8ca"
-        },
-        "side": "CLIENT"
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
       "fileName": "lumi-mc1.7.10-1.2.0.jar",
       "addonId": 1050470,
       "fileId": 6543345,
