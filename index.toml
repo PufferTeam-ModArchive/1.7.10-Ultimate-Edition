@@ -137,3 +137,7 @@ metafile = true
 file = "mods/wdmla.pw.toml"
 hash = "0f562fe104dbda16a9ae6139900510d23cf79cd237e554117f6edff0b60165ae"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
