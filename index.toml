@@ -1,0 +1,139 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/mod-director/mods.bundle.json"
+hash = "f1a86afb7e63076107195ff9cc300d2f305ef96884e606b89c8ffdbcaaf27344"
+
+[[files]]
+file = "mods.json"
+hash = "2e0e3253fd92a7be19e63f1168d2d0a18c01dbe0f60890669bb23a8acb73d987"
+
+[[files]]
+file = "mods/adjachests.pw.toml"
+hash = "10de4fa438e6855be22956231a6ce19fc80fe92c8e9974095b0826aefced8225"
+metafile = true
+
+[[files]]
+file = "mods/angelica.pw.toml"
+hash = "3c6b89da9dff403d0adeb7bc3c97a3ad929f9e2f08f87f3fcfa270bc0c5939a3"
+metafile = true
+
+[[files]]
+file = "mods/applecore.pw.toml"
+hash = "18e656e8388e4cc702225757301838d5998f7fa82191043cb2e34d2734f43860"
+metafile = true
+
+[[files]]
+file = "mods/archaic-fix.pw.toml"
+hash = "c791101e929b602f065ff0a66039bc4050a17299de9d1745fe09ce353d24e6ad"
+metafile = true
+
+[[files]]
+file = "mods/better-achievements.pw.toml"
+hash = "55f7ce86ce72fadeb4b4f89d96810bd40651c3cdabda714f86a48b9efca733c5"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "1e44836f0dddb158d479dcf7e4d90e178ab285a868ed3f9e07f41c41b01eafef"
+metafile = true
+
+[[files]]
+file = "mods/chunk-api.pw.toml"
+hash = "07e928bf7f0e1f2c7c6a4f8429dc55e9c01c471527fa281cc6193bbdde5401b8"
+metafile = true
+
+[[files]]
+file = "mods/et-futurum-requiem.pw.toml"
+hash = "cf3aeaabd567f4586acbee9fb84b2db3401a74dc86e23be2bdb3c400f43ee9cb"
+metafile = true
+
+[[files]]
+file = "mods/falsepatternlib.pw.toml"
+hash = "ca9f1c035cf56f9e5be15ff6289cf8c7c96a809b76326f581fa940f29044aedc"
+metafile = true
+
+[[files]]
+file = "mods/fluidlogged.pw.toml"
+hash = "b01d6415ccc4429914ead063e63ab57d0681357c5779542888c16f47d95d1ea8"
+metafile = true
+
+[[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "a84b357b148b2a8737f7dc331533f8103a668dcd2aeb36adea3351ed78284d4c"
+metafile = true
+
+[[files]]
+file = "mods/healer.pw.toml"
+hash = "bfcae8be1e67c88e6ba91a2e386f3cf831f1f6e2bd834d29a4c6aa5da1125ad2"
+metafile = true
+
+[[files]]
+file = "mods/hodgepodge.pw.toml"
+hash = "15acaa30667815f7eb2f351c0e6b5bc4cb55c6d32f49906496f259f09ae8ab60"
+metafile = true
+
+[[files]]
+file = "mods/lwjgl3ify.pw.toml"
+hash = "1680a20a6b81149381a3a446cf43d65da01dbcfa3843590cdc5d3322efd112fd"
+metafile = true
+
+[[files]]
+file = "mods/modern-splash.pw.toml"
+hash = "7f14aa26c0862ffd09915cf613f162fa2c4f9c6b5d7e2e346dcdde72166dcaca"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "d1debd40f22698d467107d02ff9656bd9f4d3e4ba26960c4d63d189628fa8edf"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8e6e96e825a3c02b9a2e5f7b6c220ab5619301ef44e689ef63763aa5ea74181b"
+metafile = true
+
+[[files]]
+file = "mods/netherlicious.pw.toml"
+hash = "2e8a50f01bcc3bbaeb97395b64965296e5c9a0296d5c797a3ea2a780c68a2df7"
+metafile = true
+
+[[files]]
+file = "mods/salutation.pw.toml"
+hash = "0e5d2f66e79054b89147de3d59dcffbd63fe78d378d59147c29573cc75656602"
+metafile = true
+
+[[files]]
+file = "mods/simple-skin-backport.pw.toml"
+hash = "2146f9f1b8e1e5d3dfbc47ee1fc7930b73127450228799fe6b4610d8d0dafb42"
+metafile = true
+
+[[files]]
+file = "mods/sound-filters.pw.toml"
+hash = "13d1def2dd57e184c2510a7425dfd351314dae46fbbca8e70ee57f4d533e7590"
+metafile = true
+
+[[files]]
+file = "mods/tileentity-reset-fix.pw.toml"
+hash = "6dc6bb808f64da99bbdd4af0fb9b6e49151f3b5cbead891525f9b26961df7ad4"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-caves-mod.pw.toml"
+hash = "7a860a1f96ae13cd59ebe7f7e765e0ecbe8437dd1abb67c1a765b4e503b44f6c"
+metafile = true
+
+[[files]]
+file = "mods/unimixins.pw.toml"
+hash = "8d0bf394c5f05a42b4547655cdc831e5d09df77b2628815988609bd0f7fb3b87"
+metafile = true
+
+[[files]]
+file = "mods/village-names.pw.toml"
+hash = "2ab9cc4ff78d8043d5524ce4f57aa758c1d589b55066c64b29480367a5afeffc"
+metafile = true
+
+[[files]]
+file = "mods/wdmla.pw.toml"
+hash = "0f562fe104dbda16a9ae6139900510d23cf79cd237e554117f6edff0b60165ae"
+metafile = true

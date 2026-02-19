@@ -1,0 +1,13 @@
+name = "1.7.10 Ultimate Edition"
+author = "PufferTeam"
+version = "1.7.10"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4e914d22a129529259f8846db5ff525cf96091937996d9d80cf3805faf061ac6"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"
