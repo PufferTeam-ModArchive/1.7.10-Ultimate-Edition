@@ -338,6 +338,44 @@
       }
     },
     {
+      "fileName": "catalogue-1.0.0-1.7.10.jar",
+      "addonId": 1465746,
+      "fileId": 7644917,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Catalogue"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "480a6ad40545dc46fedeb91d767312fc",
+          "SHA-256": "7c29476e78048827e8c01913d8bcd522babdfd45ab3c3ce29cebade897f95506"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "CarbonConfig-1.7.10-1.2.4.jar",
+      "addonId": 898104,
+      "fileId": 5504468,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CarbonConfig"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "903f183f03df7b7e3e8d06c5c28b879e",
+          "SHA-256": "c441715a2a2e37bde2a6083694128599078de97532295eecd8678e9df7373c90"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "angelica-2.0.0-alpha19.jar",
       "addonId": 988067,
       "fileId": 7576330,
@@ -407,6 +445,25 @@
         "hash": {
           "MD5": "6da099a3b7e865eee45fc6d0712eb1a9",
           "SHA-256": "db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "lumi-mc1.7.10-1.2.0.jar",
+      "addonId": 1050470,
+      "fileId": 6543345,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Lumi Lighting Engine Optimizer"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8b2f33e1e157dda03290c931a3586151",
+          "SHA-256": "4beea487caf686749509dcf2a5bb33e458b5e3687a2977686723efa14905ce74"
         }
       },
       "options": {

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "f1a86afb7e63076107195ff9cc300d2f305ef96884e606b89c8ffdbcaaf27344"
+hash = "4dc3dc87ff04757e21a556c797f262a9831fac1d2acb23d0a5fe67496e0947b9"
 
 [[files]]
 file = "mods.json"
@@ -39,6 +39,16 @@ hash = "1e44836f0dddb158d479dcf7e4d90e178ab285a868ed3f9e07f41c41b01eafef"
 metafile = true
 
 [[files]]
+file = "mods/carbonconfig.pw.toml"
+hash = "ec71cdd9222c03b62f2d2d822e4a318ae23f45510b955c4f894e1f8e5c433772"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "3440fcf0c6a3b70cf7e300186edcc9f63965c45a74ff0cd080232230c9ddc1fc"
+metafile = true
+
+[[files]]
 file = "mods/chunk-api.pw.toml"
 hash = "07e928bf7f0e1f2c7c6a4f8429dc55e9c01c471527fa281cc6193bbdde5401b8"
 metafile = true
@@ -71,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/hodgepodge.pw.toml"
 hash = "15acaa30667815f7eb2f351c0e6b5bc4cb55c6d32f49906496f259f09ae8ab60"
+metafile = true
+
+[[files]]
+file = "mods/lumi.pw.toml"
+hash = "8f75c71fc4c687b91816514853c6abd7aafa7fdfcf2e984b0bc159f38d7f0f1e"
 metafile = true
 
 [[files]]
