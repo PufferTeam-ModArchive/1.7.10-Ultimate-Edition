@@ -83,6 +83,18 @@
             "project-id": 385860,
             "file-id": 4363437
         },
+        "catalogue": {
+            "name": "Catalogue",
+            "type": "curseforge",
+            "project-id": 1465746,
+            "file-id": 7644917
+        },
+        "carbonconfig": {
+            "name": "CarbonConfig",
+            "type": "curseforge",
+            "project-id": 898104,
+            "file-id": 5504468
+        },
         "archaic-fix": {
             "name": "Archaic Fix",
             "type": "github",
@@ -111,6 +123,12 @@
             "type": "curseforge",
             "project-id": 554840,
             "file-id": 4367893
+        },
+        "lumi": {
+            "name": "Lumi Lighting Engine Optimizer",
+            "type": "curseforge",
+            "project-id": 1050470,
+            "file-id": 6543345
         },
         "fluidlogged": {
             "name": "FluidLogged",
